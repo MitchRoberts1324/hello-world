@@ -1,2 +1,5 @@
 # hello-world
-demo repository
+
+Hey noobs
+
+Im a lean mean green machine 
